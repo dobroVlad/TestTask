@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f9d5fa183cd6b45eeb1491f74863cd91
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52666
+  packageName: Low Poly Complete Collection - Polyworks
+  packageVersion: 6.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Shaders/Builtin/CamObjHighlight/OASFastBlur.shader
+  uploadId: 533740

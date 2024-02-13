@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3194dbb4db44acb478250d9eab7ed487
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52666
+  packageName: Low Poly Complete Collection - Polyworks
+  packageVersion: 6.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Effects/Scripts/SimpleRotateObject.cs
+  uploadId: 533740

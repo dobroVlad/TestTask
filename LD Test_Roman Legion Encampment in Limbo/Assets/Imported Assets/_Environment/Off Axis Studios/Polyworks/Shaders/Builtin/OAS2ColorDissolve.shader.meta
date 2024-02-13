@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fde4a3fc969279f48accb4db6f8913fa
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52666
+  packageName: Low Poly Complete Collection - Polyworks
+  packageVersion: 6.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Shaders/Builtin/OAS2ColorDissolve.shader
+  uploadId: 533740

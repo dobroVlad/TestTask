@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1acc38797782cb94398f6a4632812cda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52666
+  packageName: Low Poly Complete Collection - Polyworks
+  packageVersion: 6.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Shaders/Builtin/OASHologramGlitch.cs
+  uploadId: 533740

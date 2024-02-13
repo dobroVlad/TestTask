@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00b39e388e8286f4782452fdaed88180
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191535
+  packageName: LOWPOLY - Roman Legions
+  packageVersion: 1.0
+  assetPath: Assets/RomanLegions/Prefabs/Legionary.prefab
+  uploadId: 423013

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f66376790c2a9a4b98f8aef1824c083
+timeCreated: 1479250507
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52666
+  packageName: Low Poly Complete Collection - Polyworks
+  packageVersion: 6.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Shaders/Builtin/OASLowPolyFlatTextured.shader
+  uploadId: 533740

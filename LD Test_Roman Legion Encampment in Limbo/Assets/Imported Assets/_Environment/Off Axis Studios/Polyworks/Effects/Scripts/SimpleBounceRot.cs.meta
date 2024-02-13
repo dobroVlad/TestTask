@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac5b96cc0cd252341895d6ef1968e187
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52666
+  packageName: Low Poly Complete Collection - Polyworks
+  packageVersion: 6.0
+  assetPath: Assets/Off Axis Studios/Polyworks/Effects/Scripts/SimpleBounceRot.cs
+  uploadId: 533740
